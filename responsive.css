@@ -73,3 +73,14 @@
         font-size: 40px;
     }
 }
+@media(max-width : 480px){
+    .projects-section .portfolio-item{
+        width: calc(88%);
+    }
+    .projects-section .portfolio-item h3{
+        font-size: 17px;
+    }
+    .projects-section .portfolio-item .portfolio-item-details{
+        font-size: 14px;
+    }
+}
